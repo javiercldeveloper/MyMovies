@@ -1,0 +1,9 @@
+{
+  "pluginsFile": "tests/e2e/plugins/index.js",
+  "viewportWidth": 1000,
+  "viewportHeight": 1000,
+  "component": {
+    "componentFolder": "tests/e2e/specs",
+    "testFiles": "**/*.spec.js"
+  }
+}
